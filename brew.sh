@@ -6,7 +6,7 @@
 brew cask install qlstephen
 
 # Tools
-brew install keka iina cyberduck atom 
+brew install keka iina cyberduck atom appcleaner
 
 # Developer Tools
 brew install jq postman

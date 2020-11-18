@@ -10,3 +10,6 @@ brew install keka iina cyberduck atom
 
 # Developer Tools
 brew install jq postman
+
+# System Apps
+brew install haptickey
